@@ -4,7 +4,7 @@ Changelog
 添加更多地方的汉化
 
 # v1.4.1
-Support new Magisk Module update method
+支持新的 Magisk 模块更新方式
 
 # v1.4.0
-Support Awaken OS 2.3
+支持 Awaken OS 2.3
